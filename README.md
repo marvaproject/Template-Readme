@@ -50,6 +50,8 @@ Tempat bikin tabel: https://www.tablesgenerator.com/markdown_tables
 <!-- Architecture -->
 # 🏗 Architecture
 
+Lorem ipsum odor amet, consectetuer adipiscing elit. Vulputate vehicula mi dis eget at odio. Vel ex felis eu montes; vitae mollis? Curabitur morbi venenatis sit nunc varius donec. Lacinia finibus donec convallis ornare erat pellentesque lacinia. Finibus cursus auctor nam hendrerit leo est cras nisi adipiscing.
+
 <!-- Contributor -->
 # 🧑‍💻 Contributors
 
