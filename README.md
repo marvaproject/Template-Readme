@@ -39,7 +39,9 @@ Scelerisque suspendisse congue turpis non porta lacinia sollicitudin. Vehicula p
 <!-- Teknologi yang Digunakan -->
 ## Tech Stack 💻
 
-https://www.tablesgenerator.com/markdown_tables
+Lihat gallery tech stack: https://docs.google.com/document/d/1Klb1IbQ4jefnoaZD80_XQ5ul2ZUz2Z-6u5lcriiaRmc/edit?usp=sharing
+
+Tempat bikin tabel: https://www.tablesgenerator.com/markdown_tables
 
 <!-- Contributor -->
 ## Contributors 🧑‍💻
