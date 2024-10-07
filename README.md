@@ -47,6 +47,9 @@ Lihat gallery tech stack: https://docs.google.com/document/d/1Klb1IbQ4jefnoaZD80
 
 Tempat bikin tabel: https://www.tablesgenerator.com/markdown_tables
 
+<!-- Architecture -->
+# 🏗 Architecture
+
 <!-- Contributor -->
 # 🧑‍💻 Contributors
 
