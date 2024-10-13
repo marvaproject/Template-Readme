@@ -76,3 +76,4 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Vulputate vehicula mi dis e
 This project is copyrighted. All copyrights are owned by the Group 3 Foundation of Artificial Intelligence course of Binus University. Use, modification, or distribution without written permission is prohibited.
 
 [![NAMA](SHIELDS)](LINK)
+
