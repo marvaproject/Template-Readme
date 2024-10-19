@@ -67,8 +67,9 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Vulputate vehicula mi dis e
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&width=10" height="50"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="50"/>
-
 </div>
+
+Jelaskan tutorial download
 
 <!-- License -->
 # ⚖️ License
@@ -77,4 +78,3 @@ This project is copyrighted. All copyrights are owned by the Group 3 Foundation 
 
 <!-- Template Link -->
 [![NAMA](SHIELDS)](LINK)
-
