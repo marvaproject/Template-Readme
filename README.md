@@ -22,7 +22,7 @@
 
 Lorem ipsum odor amet, consectetuer adipiscing elit. Vulputate vehicula mi dis eget at odio. Vel ex felis eu montes; vitae mollis? Curabitur morbi venenatis sit nunc varius donec. Lacinia finibus donec convallis ornare erat pellentesque lacinia. Finibus cursus auctor nam hendrerit leo est cras nisi adipiscing.
 
-Scelerisque suspendisse congue turpis non porta lacinia sollicitudin. Vehicula primis eleifend at dapibus scelerisque facilisis. Pretium egestas nibh hendrerit lobortis accumsan duis. Vitae quis convallis consectetur morbi morbi, penatibus class enim. Habitasse praesent porttitor pellentesque eu efficitur fames lobortis nulla augue. Iaculis viverra eu justo arcu commodo efficitur consequat mattis sollicitudin. Est nascetur auctor velit nisi sodales.
+Scelerisque suspendisse congue turpis non porta lacinia sollicitudin. Vehicula primis eleifend at dapibus scelerisque facilisis. Pretium egestas nibh hendrerit lobortis accumsan duis. Vitae quis convallis consectetur morbi morbi, penatibus class enim. Habitasse praesent porttitor pellentesque euu efficitur fames lobortis nullla augue. Iaculis viverra eu justo arcu commodo efficitur consequat mattis sollicitudin. Est nascetur auctor velit nisi sodales.
 
 <!-- Fitur Project -->
 # 🛠️ Features
